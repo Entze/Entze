@@ -1,6 +1,8 @@
 👋 My name is Lukas
 
-📖 Currently I am writing my masters thesis on Monte Carlo Tree Search agents for General Game Playing.
+📖 My Masters Thesis was on Monte Carlo Tree Search for General Game Playing with Imperfect Information
+
+💼 I am employed as a Software Architect with Integration Engineering, and Post-Sales Engineering responsibilities
 
 Myself in bullet points:
 - 🕸️ Open source enthusiast
@@ -11,22 +13,9 @@ Myself in bullet points:
 Solving problems with the right tools:
 - 🧩 ASP/Logic Programming master
 - 🐍 Python engineer
+- 🦀 Rust enthusiast
 - ☕ Java/Kotlin adept
 - λ Haskell expert
 - 🧮 Julia programmer
 - 🌐 Typescript dabbler
 
-<!--
-**Entze/Entze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
