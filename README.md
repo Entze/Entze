@@ -1,8 +1,10 @@
 👋 My name is Lukas
 
+🎓 Working on my PhD thesis on General Game Playing
+
 📖 My Masters Thesis was on Monte Carlo Tree Search for General Game Playing with Imperfect Information
 
-💼 I am employed as a Software Architect with Integration Engineering, and Post-Sales Engineering responsibilities
+💼 Employed as a Software Engineer
 
 Myself in bullet points:
 - 🕸️ Open source enthusiast
@@ -12,9 +14,9 @@ Myself in bullet points:
 
 Solving problems with the right tools:
 - 🧩 ASP/Logic Programming master
+- ☕ Java/Kotlin adept
 - 🐍 Python engineer
 - 🦀 Rust enthusiast
-- ☕ Java/Kotlin adept
 - λ Haskell expert
 - 🧮 Julia programmer
 - 🌐 Typescript dabbler
